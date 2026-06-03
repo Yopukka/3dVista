@@ -1,0 +1,143 @@
+#: locale=es
+
+## E-Learning
+
+### Nombre Puntuación
+score1.label = Score_seguridad
+
+### Pantalla Fin de Tiempo
+quizTimeout_A35CABE8_8B60_3ECC_41CB_89050C4095B7.title = - TIMEOUT -
+quizTimeout_A35CABE8_8B60_3ECC_41CB_89050C4095B7.repeat = Repeat
+quizTimeout_A35CABE8_8B60_3ECC_41CB_89050C4095B7.score = View Score
+
+### Pantalla Pregunta
+quizQuestion_A35B7BEA_8B60_3ECC_41D9_CA72FACC5ED0.ok = OK
+
+### Pantalla Reporte
+quizScore_A2A31BEA_8B60_3ECC_41D6_294B75B87293.title = - SCORE -
+quizScore_A2A31BEA_8B60_3ECC_41D6_294B75B87293.completion = Completed
+quizScore_A2A31BEA_8B60_3ECC_41D6_294B75B87293.questionsCorrect = Correct
+quizScore_A2A31BEA_8B60_3ECC_41D6_294B75B87293.downloadCSV = Download .csv
+quizScore_A2A31BEA_8B60_3ECC_41D6_294B75B87293.questionsIncorrect = Incorrect
+quizScore_A2A31BEA_8B60_3ECC_41D6_294B75B87293.items = Items Found
+quizScore_A2A31BEA_8B60_3ECC_41D6_294B75B87293.questions = Questions
+quizScore_A2A31BEA_8B60_3ECC_41D6_294B75B87293.repeat = Repeat
+quizScore_A2A31BEA_8B60_3ECC_41D6_294B75B87293.submitToLMS = Submit
+quizScore_A2A31BEA_8B60_3ECC_41D6_294B75B87293.elapsedTime = Time
+
+### Pregunta
+question_A4789F91_8D20_175C_41DD_128D99CBCD94.title = Ante un olor a gas, ¿cuál es  \
+la primera acción correcta?
+question_A70ED4F2_8D20_0ADC_41DB_D0DFCB1BF4F6.title = ¿Cuál es la distancia mínima de  \
+seguridad alrededor del tanque GLP?
+question_A9296A72_8B20_19DC_41D4_F1C5A71F7C8D.title = ¿Cuál es la distancia mínima de seguridad  \
+alrededor de un tanque GLP?
+question_A9296A72_8B20_19DC_41D4_F1C5A71F7C8D.title = ¿Cuál es la distancia mínima de seguridad  \
+alrededor de un tanque GLP?
+question_A55AEB36_8D20_1F44_41CC_BAF31487AD3C.title = ¿Qué acción está PROHIBIDA cerca  \
+del tanque de gas?
+question_A4CD426A_8EE0_09CC_41D0_30E8455F4F78.title = ¿Qué debes hacer si detectas  \
+olor a gas en esta zona?
+question_A4CD426A_8EE0_09CC_41D0_30E8455F4F78.title = ¿Qué debes hacer si detectas  \
+olor a gas en esta zona?
+question_A4705D1A_8EE0_1B4C_41D6_43A2C0D4966E.title = ¿Qué debes verificar en las barandas  \
+antes de comenzar a trabajar?
+question_A4705D1A_8EE0_1B4C_41D6_43A2C0D4966E.title = ¿Qué debes verificar en las barandas  \
+antes de comenzar a trabajar?
+question_A1B738FF_8D20_1AC4_41D5_923578AE2574.title = ¿Qué elemento NO pertenece  \
+al EPP obligatorio?
+question_A1B738FF_8D20_1AC4_41D5_923578AE2574.title = ¿Qué elemento NO pertenece  \
+al EPP obligatorio?
+question_A42339DC_8D20_1AC4_41DF_7B293429692B.title = ¿Qué elemento NO pertenece  \
+al EPP obligatorio?
+
+### Respuesta
+questionOption_A8D5C033_8B20_095C_41D1_05988E5EFD42.text = 10 Metros
+questionOption_A8D5C033_8B20_095C_41D1_05988E5EFD42.text = 10 Metros
+questionOption_A42C7725_8D20_1747_41D9_9C38BC03EFBF.text = 10 Metros 
+questionOption_A426794D_8D20_1BC4_41C4_088B62750B2B.text = 15 Metros
+questionOption_A88F6842_8B20_F93C_41C7_050BA882094F.text = 2 Metros
+questionOption_A88F6842_8B20_F93C_41C7_050BA882094F.text = 2 Metros
+questionOption_A4325CBE_8D20_1944_415A_5535DE701F4C.text = 20 Metros
+questionOption_A2B19F58_8D60_17CC_41C4_9609F6D98F2C.text = 40 Metros
+questionOption_A2B19F58_8D60_17CC_41C4_9609F6D98F2C.text = 40 Metros
+questionOption_A28A313E_8D60_0B44_41D3_873260C30AF7.text = 5 Metros
+questionOption_A28A313E_8D60_0B44_41D3_873260C30AF7.text = 5 Metros
+questionOption_A401D45E_8D20_09C4_41E0_16ED4D2AA119.text = 5 Metros
+questionOption_A5AD6240_8D20_093C_41BC_F6C8EE3056A0.text = Abrir las valvulas
+questionOption_A46BAFB6_8EE0_3744_41D2_B1B346F65530.text = Abrir las valvulas para liberar presion
+questionOption_A46BAFB6_8EE0_3744_41D2_B1B346F65530.text = Abrir las valvulas para liberar presion
+questionOption_BE71EDE7_8D20_7AC4_41D4_B63758510D05.text = Audifono de musica
+questionOption_BE71EDE7_8D20_7AC4_41D4_B63758510D05.text = Audifono de musica
+questionOption_A4732C71_8D20_19DC_41A3_A821036EB9D5.text = Audifonos de musica
+questionOption_BE7BA00C_8D20_0944_41B2_361D843C7B35.text = Botas de seguridad
+questionOption_A59570E0_8D20_0AFC_416F_F0986D451E38.text = Botas de seguridad
+questionOption_BE7BA00C_8D20_0944_41B2_361D843C7B35.text = Botas de seguridad
+questionOption_A489BB64_8EE0_3FC4_41DA_6ADAE09FC1EA.text = Buscar el origen de la fuga
+questionOption_A489BB64_8EE0_3FC4_41DA_6ADAE09FC1EA.text = Buscar el origen de la fuga
+questionOption_A5865FD1_8D20_16DC_41D6_1DE78A95D9D8.text = Buscar la fuga
+questionOption_BE5D29FB_8D20_7ACC_41D0_CF31A4590749.text = Casco
+questionOption_A59F8EB7_8D20_1944_41B9_A2E3210B5EF8.text = Casco
+questionOption_BE5D29FB_8D20_7ACC_41D0_CF31A4590749.text = Casco
+questionOption_BE0892C5_8D20_0EC4_417C_830ED5753004.text = Chaleco reflectivo
+questionOption_A593E2C8_8D20_0ECC_41E0_AE3912F8CB19.text = Chaleco reflectivo
+questionOption_BE0892C5_8D20_0EC4_417C_830ED5753004.text = Chaleco reflectivo
+questionOption_A5A4B440_8D20_093C_41A4_84774AAB4050.text = Continuar trabajando
+questionOption_A46351AD_8EE0_0B44_41DC_314058B5644B.text = Continuar trabajando con precaucion 
+questionOption_A46351AD_8EE0_0B44_41DC_314058B5644B.text = Continuar trabajando con precaucion 
+questionOption_A5DDC670_8D20_09DC_41E1_CDAE9CF735F5.text = Evacuar y llamar al responsable
+questionOption_A4722DC2_8EE0_3B3C_41E1_0925FB830A9D.text = Evacuar y llamar al responsable 
+questionOption_A4722DC2_8EE0_3B3C_41E1_0925FB830A9D.text = Evacuar y llamar al responsable 
+questionOption_A28FEC69_8D20_19CC_41D1_65F0AA78F259.text = Fumar o generar chispas
+questionOption_A533E2D7_8EE0_0EC4_41E1_03ECC8A4CD0C.text = Que esten fijas y sin daños
+questionOption_A533E2D7_8EE0_0EC4_41E1_03ECC8A4CD0C.text = Que esten fijas y sin daños
+questionOption_A5563E8B_8EE0_794C_4192_41AFB334D0FD.text = Que esten pintadas de amarrillo
+questionOption_A5563E8B_8EE0_794C_4192_41AFB334D0FD.text = Que esten pintadas de amarrillo
+questionOption_A535E4FC_8EE0_0AC4_4196_F5922CD9C9EF.text = Que sean de metal
+questionOption_A535E4FC_8EE0_0AC4_4196_F5922CD9C9EF.text = Que sean de metal
+questionOption_A2841EE1_8D20_16FC_41D9_5A1BED7ED9DE.text = Reportar anomalias
+questionOption_A56477E1_8D20_16FC_41E0_1CE88F22D960.text = Usar EPP completo
+questionOption_A291DA89_8D20_194C_41DD_0E10564A6852.text = Verificar barandas
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_95B339AA_8BE0_1B4C_41D7_479791BD6701.toolTip = Tank Risk
+
+## Media
+
+### Título
+photo_A153D48B_8D20_094C_41DB_3D40E128479A.label = Captura de pantalla 2026-06-03 a la(s) 1.31.10 p.m.
+photo_A0BF9218_8D60_094C_41DD_1FFEEC11C02A.label = Tanqueglp
+photo_A0B494CD_8D60_0AC4_418C_C6A3E03132CB.label = barandaseguridad
+photo_BF1C1B67_8D60_1FC4_41A0_2BBE51C64127.label = equipoEPP
+panorama_9411E7FB_8BE0_16CC_41DA_AA89DB36FFDA.label = gx
+
+## Skin
+
+### Botón
+Button_A412A170_8D20_0BDC_41E1_B8A83CAFCD27.label = Completar Demo - Quiz Final
+
+### Etiqueta
+Label_A469EE75_8D20_19C4_41D4_4F2D9C60E143.text = Modulo completado  ✅
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Sin Título 2
+
+## Ventana
+
+### Cuerpo
+htmlText_A54DA488_8EE0_094C_41E0_2247062A00C0.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"> Equipo de Protección Personal (EPP)</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El personal debe portar en todo momento:</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">- Casco</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">- Chaleco reflectivo</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">- Botas de seguridad</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">- Guantes según la tarea</SPAN></DIV></BODY></HTML></div>
+htmlText_A5DBD8F8_8EE0_1ACC_41D9_D1A15FA8ABAA.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">⚠️ Barandas de seguridad</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Verificar que estén fijas y sin daños </SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">antes de iniciar cualquier labor.</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Nunca apoyarse ni sobrepasar la baranda.</SPAN></DIV></BODY></HTML></div>
+htmlText_AAE9C636_8B20_0944_41D6_A141B12C5313.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">⚠️ Tanque GLP presurizado</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Zona de alto riesgo. </SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Prohibido fumar o generar chispas </SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">en un radio de 10 metros.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_A5974EAE_8EE0_1944_41C0_E08E21F926E2.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">⚠️ Válvulas y tuberías de gas</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Zona de fuga potencial.</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">No manipular sin autorización.</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Ante cualquier olor a gas:</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">- No generar chispas</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">- Evacuar inmediatamente</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">- Llamar al responsable de planta</SPAN></DIV></BODY></HTML></div>
+
+### Título
+window_A5DA08F8_8EE0_1ACC_4193_8CA7BB9996CB.title = Barandas de seguridad
+window_A54B8488_8EE0_094C_41C7_6618FCDB8868.title = Equipo EPP
+window_AAE9A636_8B20_0944_41C2_712DFF0A19EB.title = Tanque GLP
+window_A5997EAE_8EE0_1944_41DD_299780D884F8.title = Valvulas de seguridad

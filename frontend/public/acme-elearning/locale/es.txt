@@ -30,99 +30,99 @@ question_A4789F91_8D20_175C_41DD_128D99CBCD94.title = Ante un olor a gas, ¿cuá
 la primera acción correcta?
 question_A70ED4F2_8D20_0ADC_41DB_D0DFCB1BF4F6.title = ¿Cuál es la distancia mínima de  \
 seguridad alrededor del tanque GLP?
-question_830F504C_A2AA_67E9_41D4_435A0DB9BC5F.title = ¿Cuál es la distancia mínima de seguridad  \
+question_9B497F7B_B27F_095A_41E4_881A1692289D.title = ¿Cuál es la distancia mínima de seguridad  \
 alrededor de un tanque GLP?
-question_830F504C_A2AA_67E9_41D4_435A0DB9BC5F.title = ¿Cuál es la distancia mínima de seguridad  \
+question_9B497F7B_B27F_095A_41E4_881A1692289D.title = ¿Cuál es la distancia mínima de seguridad  \
 alrededor de un tanque GLP?
 question_84C64ACD_A2EE_38EB_41BC_2D9C51595D2B.title = ¿Cuál es la función de la válvula de corte (manija roja) en la línea amarilla?
-question_8390E54A_A2AE_29E9_41CC_1E825C592003.title = ¿Cuál es la función principal del regulador de presión?
-question_8390E54A_A2AE_29E9_41CC_1E825C592003.title = ¿Cuál es la función principal del regulador de presión?
+question_9B27E4FE_B275_1F5A_41E1_00A1E0EABF03.title = ¿Cuál es la función principal del regulador de presión?
+question_9B27E4FE_B275_1F5A_41E1_00A1E0EABF03.title = ¿Cuál es la función principal del regulador de presión?
 question_8459C018_A2EA_2769_41E0_0AD10569126F.title = ¿Para qué sirve el manómetro de este conjunto? \
  \
  \
 
-question_87507A1B_A2EA_3B6F_41BB_F0E2642ADDEE.title = ¿Que debes de hacer si dectectas olor a gas en esta zona?
-question_87507A1B_A2EA_3B6F_41BB_F0E2642ADDEE.title = ¿Que debes de hacer si dectectas olor a gas en esta zona?
+question_9BE5CF05_B273_0AAE_41BB_523380FAD020.title = ¿Que debes de hacer si dectectas olor a gas en esta zona?
+question_9BE5CF05_B273_0AAE_41BB_523380FAD020.title = ¿Que debes de hacer si dectectas olor a gas en esta zona?
 question_A55AEB36_8D20_1F44_41CC_BAF31487AD3C.title = ¿Qué acción está PROHIBIDA cerca  \
 del tanque de gas?
-question_827F3457_A2AE_2FE7_41CB_E4F6FABCC818.title = ¿Qué debes hacer con la válvula de corte de servicio ante una fuga o emergencia?
-question_827F3457_A2AE_2FE7_41CB_E4F6FABCC818.title = ¿Qué debes hacer con la válvula de corte de servicio ante una fuga o emergencia?
-question_BD3F0986_A29A_5959_41D0_172900BAA0FE.title = ¿Qué debes verificar en las barandas  \
+question_9B79B937_B274_F6EA_41E4_3A4E21A32278.title = ¿Qué debes hacer con la válvula de corte de servicio ante una fuga o emergencia?
+question_9B79B937_B274_F6EA_41E4_3A4E21A32278.title = ¿Qué debes hacer con la válvula de corte de servicio ante una fuga o emergencia?
+question_9B6EC6DB_B26D_3B5A_4190_A35F98E7156C.title = ¿Qué debes verificar en las barandas  \
 antes de comenzar a trabajar?
-question_BD3F0986_A29A_5959_41D0_172900BAA0FE.title = ¿Qué debes verificar en las barandas  \
+question_9B6EC6DB_B26D_3B5A_4190_A35F98E7156C.title = ¿Qué debes verificar en las barandas  \
 antes de comenzar a trabajar?
 question_A42339DC_8D20_1AC4_41DF_7B293429692B.title = ¿Qué elemento NO pertenece  \
 al EPP obligatorio?
-question_A1B738FF_8D20_1AC4_41D5_923578AE2574.title = ¿Qué elemento NO pertenece  \
+question_9BDD01BF_B275_19DA_41CC_75028B967A48.title = ¿Qué elemento NO pertenece  \
 al EPP obligatorio?
-question_A1B738FF_8D20_1AC4_41D5_923578AE2574.title = ¿Qué elemento NO pertenece  \
+question_9BDD01BF_B275_19DA_41CC_75028B967A48.title = ¿Qué elemento NO pertenece  \
 al EPP obligatorio?
 
 ### Respuesta
-questionOption_BD23C6EE_A2AA_68A9_41CC_EA5E27405AA3.text = 1 Meteo
-questionOption_BD23C6EE_A2AA_68A9_41CC_EA5E27405AA3.text = 1 Meteo
-questionOption_BD1073F6_A2AA_68B9_41CA_B778BC9014CC.text = 10 Metros
-questionOption_BD1073F6_A2AA_68B9_41CA_B778BC9014CC.text = 10 Metros
+questionOption_9B48AF7C_B27F_095E_41DD_5862A53187B8.text = 1 Meteo
+questionOption_9B48AF7C_B27F_095E_41DD_5862A53187B8.text = 1 Meteo
+questionOption_9B48CF7C_B27F_095E_41D6_E3ECC73200A8.text = 10 Metros
+questionOption_9B48CF7C_B27F_095E_41D6_E3ECC73200A8.text = 10 Metros
 questionOption_A42C7725_8D20_1747_41D9_9C38BC03EFBF.text = 10 Metros 
 questionOption_A426794D_8D20_1BC4_41C4_088B62750B2B.text = 15 Metros
-questionOption_BD1831FB_A2AA_68AF_41CB_20BFC5FE55B5.text = 2 Metros
-questionOption_BD1831FB_A2AA_68AF_41CB_20BFC5FE55B5.text = 2 Metros
+questionOption_9B48DF7C_B27F_095E_41D4_72E9CCFA432E.text = 2 Metros
+questionOption_9B48DF7C_B27F_095E_41D4_72E9CCFA432E.text = 2 Metros
 questionOption_A4325CBE_8D20_1944_415A_5535DE701F4C.text = 20 Metros
-questionOption_BD2BD5A0_A2AA_6959_41C6_2714F63ABEC2.text = 40 Metros
-questionOption_BD2BD5A0_A2AA_6959_41C6_2714F63ABEC2.text = 40 Metros
+questionOption_9B48BF7C_B27F_095E_41E4_19BB28599052.text = 40 Metros
+questionOption_9B48BF7C_B27F_095E_41E4_19BB28599052.text = 40 Metros
 questionOption_A401D45E_8D20_09C4_41E0_16ED4D2AA119.text = 5 Metros
 questionOption_A5AD6240_8D20_093C_41BC_F6C8EE3056A0.text = Abrir las valvulas
-questionOption_83377179_A2EE_69AB_41DF_7FFF907CE775.text = Abrir las valvulas para librar presion
-questionOption_83377179_A2EE_69AB_41DF_7FFF907CE775.text = Abrir las valvulas para librar presion
+questionOption_9BE4AF05_B273_0AAE_41C1_8FB3A5172DB9.text = Abrir las valvulas para librar presion
+questionOption_9BE4AF05_B273_0AAE_41C1_8FB3A5172DB9.text = Abrir las valvulas para librar presion
 questionOption_84554FD7_A2EE_38E7_41E0_7D5A23444286.text = Abrir o cerrar el paso de gas hacia la instalación
-questionOption_832A8C7B_A29A_5FAF_41DD_344AFB802E89.text = Abrirla por completo
-questionOption_832A8C7B_A29A_5FAF_41DD_344AFB802E89.text = Abrirla por completo
-questionOption_BE71EDE7_8D20_7AC4_41D4_B63758510D05.text = Audifono de musica
-questionOption_BE71EDE7_8D20_7AC4_41D4_B63758510D05.text = Audifono de musica
+questionOption_9B7A3938_B274_F6E6_41E1_48DBB7974535.text = Abrirla por completo
+questionOption_9B7A3938_B274_F6E6_41E1_48DBB7974535.text = Abrirla por completo
+questionOption_9BDDF1BF_B275_19DA_41DB_5494C0B9A226.text = Audifono de musica
+questionOption_9BDDF1BF_B275_19DA_41DB_5494C0B9A226.text = Audifono de musica
 questionOption_A4732C71_8D20_19DC_41A3_A821036EB9D5.text = Audifonos de musica
-questionOption_83566798_A29A_E969_41D6_671F03EE358B.text = Aumentar la presión hacia el tanque
-questionOption_83566798_A29A_E969_41D6_671F03EE358B.text = Aumentar la presión hacia el tanque
-questionOption_BE7BA00C_8D20_0944_41B2_361D843C7B35.text = Botas de seguridad
+questionOption_9B20B4FF_B275_1F5A_41D6_6CE0E590D42D.text = Aumentar la presión hacia el tanque
+questionOption_9B20B4FF_B275_1F5A_41D6_6CE0E590D42D.text = Aumentar la presión hacia el tanque
+questionOption_9BDDE1BF_B275_19DA_41DC_9CE5FAAF713C.text = Botas de seguridad
 questionOption_A59570E0_8D20_0AFC_416F_F0986D451E38.text = Botas de seguridad
-questionOption_BE7BA00C_8D20_0944_41B2_361D843C7B35.text = Botas de seguridad
-questionOption_841E9FBA_A2EE_58A9_41C9_316A3F5E736E.text = Buscar el origen de la fuga
-questionOption_841E9FBA_A2EE_58A9_41C9_316A3F5E736E.text = Buscar el origen de la fuga
+questionOption_9BDDE1BF_B275_19DA_41DC_9CE5FAAF713C.text = Botas de seguridad
+questionOption_9BE45F05_B273_0AAE_41C6_C8CE55829C29.text = Buscar el origen de la fuga
+questionOption_9BE45F05_B273_0AAE_41C6_C8CE55829C29.text = Buscar el origen de la fuga
 questionOption_A5865FD1_8D20_16DC_41D6_1DE78A95D9D8.text = Buscar la fuga
 questionOption_A59F8EB7_8D20_1944_41B9_A2E3210B5EF8.text = Casco
-questionOption_BE5D29FB_8D20_7ACC_41D0_CF31A4590749.text = Casco
-questionOption_BE5D29FB_8D20_7ACC_41D0_CF31A4590749.text = Casco
-questionOption_8330CF05_A29A_595B_41D6_382B4AC93702.text = Cerrarla para aislar el suministro 
-questionOption_8330CF05_A29A_595B_41D6_382B4AC93702.text = Cerrarla para aislar el suministro 
-questionOption_BE0892C5_8D20_0EC4_417C_830ED5753004.text = Chaleco reflectivo
+questionOption_9BDD81BF_B275_19DA_41E2_F774297FDCB0.text = Casco
+questionOption_9BDD81BF_B275_19DA_41E2_F774297FDCB0.text = Casco
+questionOption_9B7A4938_B274_F6E6_41C2_488D1EB14EAC.text = Cerrarla para aislar el suministro 
+questionOption_9B7A4938_B274_F6E6_41C2_488D1EB14EAC.text = Cerrarla para aislar el suministro 
+questionOption_9BDDD1BF_B275_19DA_41CE_89DD2010610D.text = Chaleco reflectivo
 questionOption_A593E2C8_8D20_0ECC_41E0_AE3912F8CB19.text = Chaleco reflectivo
-questionOption_BE0892C5_8D20_0EC4_417C_830ED5753004.text = Chaleco reflectivo
+questionOption_9BDDD1BF_B275_19DA_41CE_89DD2010610D.text = Chaleco reflectivo
 questionOption_A5A4B440_8D20_093C_41A4_84774AAB4050.text = Continuar trabajando
-questionOption_830D34E3_A2EE_68DF_41D8_DED6E33E9E37.text = Continuar trabajando con precaucion
-questionOption_830D34E3_A2EE_68DF_41D8_DED6E33E9E37.text = Continuar trabajando con precaucion
+questionOption_9BE4BF05_B273_0AAE_41C4_B3127CD38224.text = Continuar trabajando con precaucion
+questionOption_9BE4BF05_B273_0AAE_41C4_B3127CD38224.text = Continuar trabajando con precaucion
 questionOption_87744FB6_A2EA_F8B9_41E3_227994EA8EDD.text = Cortar el paso de gas en emergencia
-questionOption_830C91EB_A29A_68AE_41CD_E378F0730F61.text = Dejarla igual y avisar después
-questionOption_830C91EB_A29A_68AE_41CD_E378F0730F61.text = Dejarla igual y avisar después
-questionOption_8340651C_A29A_E969_41DE_D4F94704960A.text = Drenar el agua acumulada
-questionOption_8340651C_A29A_E969_41DE_D4F94704960A.text = Drenar el agua acumulada
-questionOption_84099DA9_A2EE_58AB_41D4_95D7B7213D82.text = Evacuar y llamar al personal responsable
-questionOption_84099DA9_A2EE_58AB_41D4_95D7B7213D82.text = Evacuar y llamar al personal responsable
+questionOption_9B7A6938_B274_F6E6_41BA_8F403B656B25.text = Dejarla igual y avisar después
+questionOption_9B7A6938_B274_F6E6_41BA_8F403B656B25.text = Dejarla igual y avisar después
+questionOption_9B2744FF_B275_1F5A_41E4_CAFF32B01E93.text = Drenar el agua acumulada
+questionOption_9B2744FF_B275_1F5A_41E4_CAFF32B01E93.text = Drenar el agua acumulada
+questionOption_9BE44F05_B273_0AAE_41D1_F8D657AC5397.text = Evacuar y llamar al personal responsable
+questionOption_9BE44F05_B273_0AAE_41D1_F8D657AC5397.text = Evacuar y llamar al personal responsable
 questionOption_A5DDC670_8D20_09DC_41E1_CDAE9CF735F5.text = Evacuar y llamar al responsable
 questionOption_A28FEC69_8D20_19CC_41D1_65F0AA78F259.text = Fumar o generar chispas
-questionOption_83046094_A29A_6779_41E1_8F8DB6B794A0.text = Golpearla para destrabarla
-questionOption_83046094_A29A_6779_41E1_8F8DB6B794A0.text = Golpearla para destrabarla
+questionOption_9B7A5938_B274_F6E6_41D8_6AB3B9E835A2.text = Golpearla para destrabarla
+questionOption_9B7A5938_B274_F6E6_41D8_6AB3B9E835A2.text = Golpearla para destrabarla
 questionOption_8710CDE7_A2EA_F8A7_41E0_D225EFFAD785.text = Indicar la presión del gas en la línea
 questionOption_87688176_A2EA_E9B9_41C3_70E8A7048E85.text = Liberar sobrepresión
-questionOption_83049858_A29A_27E9_41DB_8DF73EBD5F56.text = Medir el nivel de líquido del tanque
-questionOption_83049858_A29A_27E9_41DB_8DF73EBD5F56.text = Medir el nivel de líquido del tanque
+questionOption_9B2764FE_B275_1F5A_41AF_AA394C5819B8.text = Medir el nivel de líquido del tanque
+questionOption_9B2764FE_B275_1F5A_41AF_AA394C5819B8.text = Medir el nivel de líquido del tanque
 questionOption_876D41F5_A2EE_28BB_41B2_A334F58E335B.text = Medir el nivel del tanque
-questionOption_BD606B3D_A29A_79AB_41DD_CCCD698A303E.text = Que esten fijas y sin daños
-questionOption_BD606B3D_A29A_79AB_41DD_CCCD698A303E.text = Que esten fijas y sin daños
-questionOption_BD687D2D_A29A_79AB_41CD_2856F90D027C.text = Que esten pintadas de amarillo
-questionOption_BD687D2D_A29A_79AB_41CD_2856F90D027C.text = Que esten pintadas de amarillo
-questionOption_BD5AC967_A29A_79A7_41D9_0D9139648CEE.text = Que sean de metal
-questionOption_BD5AC967_A29A_79A7_41D9_0D9139648CEE.text = Que sean de metal
-questionOption_8377AFF9_A29A_D8AB_4190_15E1EEDB731C.text = Reducir la presión del GLP a la presión de servicio
-questionOption_8377AFF9_A29A_D8AB_4190_15E1EEDB731C.text = Reducir la presión del GLP a la presión de servicio
+questionOption_9B6E56DB_B26D_3B5A_41C8_26CC39C5B60D.text = Que esten fijas y sin daños
+questionOption_9B6E56DB_B26D_3B5A_41C8_26CC39C5B60D.text = Que esten fijas y sin daños
+questionOption_9B6FA6DC_B26D_3B5E_41D6_E737BCB04B4E.text = Que esten pintadas de amarillo
+questionOption_9B6FA6DC_B26D_3B5E_41D6_E737BCB04B4E.text = Que esten pintadas de amarillo
+questionOption_9B6E46DB_B26D_3B5A_41E1_612A74DB9AED.text = Que sean de metal
+questionOption_9B6E46DB_B26D_3B5A_41E1_612A74DB9AED.text = Que sean de metal
+questionOption_9B2754FF_B275_1F5A_41AA_0E7E4825C19F.text = Reducir la presión del GLP a la presión de servicio
+questionOption_9B2754FF_B275_1F5A_41AA_0E7E4825C19F.text = Reducir la presión del GLP a la presión de servicio
 questionOption_847678EF_A2EE_38A7_41DC_1FFE38F858F7.text = Regular la presión del gas
 questionOption_A2841EE1_8D20_16FC_41D9_5A1BED7ED9DE.text = Reportar anomalias
 questionOption_8763C315_A2EA_E97B_41C1_D16421E45170.text = Señalar la temperatura del tanque
@@ -154,6 +154,7 @@ Button_A412A170_8D20_0BDC_41E1_B8A83CAFCD27.label = Completar Demo - Quiz Final
 Label_A469EE75_8D20_19C4_41D4_4F2D9C60E143.text = Modulo completado  ✅
 
 ### Texto Multilínea
+HTMLText_95771187_B213_19AA_41DB_1BC7C4DC63A2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:31px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:31px;"><B>Preguntas</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:31px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:31px;"><B>{{quiz.questions.answered}} / {{quiz.question.count}}</B></SPAN></SPAN></DIV></div>
 HTMLText_A831F33A_B21F_1ADA_4191_568C0CC0DEE3.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:31px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:31px;"><B>Puntaje actual / Puntaje total</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:31px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:31px;"><B>{{quiz.score}}/{{quiz.score.total}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:31px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 
 ## Tour
@@ -166,17 +167,17 @@ tour.name = Sin Título 2
 ## Ventana
 
 ### Cuerpo
-htmlText_A54DA488_8EE0_094C_41E0_2247062A00C0.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"> Equipo de Protección Personal (EPP)</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El personal debe portar en todo momento:</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">- Casco</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">- Chaleco reflectivo</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">- Botas de seguridad</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">- Guantes según la tarea</SPAN></DIV></BODY></HTML></div>
-htmlText_BF48C37F_A26A_29A7_41DB_9317FDCE8D5E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">⚠️ Barandas de seguridad</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Verificar que estén fijas y sin daños </SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">antes de iniciar cualquier labor.</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Nunca apoyarse ni sobrepasar la baranda.</SPAN></DIV></BODY></HTML></div>
-htmlText_82C6FCA2_A2A9_FF59_41E4_1ADC3E0808A4.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">⚠️ Tanque GLP presurizado</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Zona de alto riesgo. </SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Prohibido fumar o generar chispas </SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">en un radio de 10 metros.</SPAN></DIV></BODY></HTML></div>
-htmlText_BE3F08E4_A279_F8D9_41D6_F08871F4EAE7.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">⚠️ Válvulas y tuberías de gas</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Zona de fuga potencial.</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">No manipular sin autorización.</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Ante cualquier olor a gas:</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">- No generar chispas</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">- Evacuar inmediatamente</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">- Llamar al responsable de planta</SPAN></DIV></BODY></HTML></div>
-htmlText_80560DFA_A2AE_58A9_41D1_D2CA6A48D4D2.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">⚠️Válvula de corte de servicio. Abre o cierra el suministro de gas hacia la instalación. Seguridad: ciérrala ante cualquier emergencia o fuga antes de actuar. </SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">La válvula de purga inferior solo se usa para drenaje controlado por personal autorizado.</SPAN></DIV></BODY></HTML></div>
-htmlText_BC55BEEA_A2AA_F8A9_41D8_9C56DA6A70EA.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">⚠️ Regulador de presión y manómetro. </SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Reduce la presión del GLP del tanque a la presión de servicio y permite verificarla en el manómetro. </SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Revisa: que la aguja esté en el rango normal y que no haya fugas en las uniones</SPAN></DIV></BODY></HTML></div>
+htmlText_9BD811C0_B275_19A6_419D_706B11A5C892.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"> Equipo de Protección Personal (EPP)</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">El personal debe portar en todo momento:</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">- Casco</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">- Chaleco reflectivo</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">- Botas de seguridad</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">- Guantes según la tarea</SPAN></DIV></BODY></HTML></div>
+htmlText_9B11E6DC_B26D_3B5E_41B9_9C4630B78B88.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">⚠️ Barandas de seguridad</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Verificar que estén fijas y sin daños </SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">antes de iniciar cualquier labor.</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Nunca apoyarse ni sobrepasar la baranda.</SPAN></DIV></BODY></HTML></div>
+htmlText_9B4D6F7D_B27F_095E_41E3_0D61CA4325A1.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">⚠️ Tanque GLP presurizado</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Zona de alto riesgo. </SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Prohibido fumar o generar chispas </SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">en un radio de 10 metros.</SPAN></DIV></BODY></HTML></div>
+htmlText_9BE2FF06_B273_0AAA_41B1_7E95747ED542.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">⚠️ Válvulas y tuberías de gas</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Zona de fuga potencial.</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">No manipular sin autorización.</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Ante cualquier olor a gas:</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">- No generar chispas</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">- Evacuar inmediatamente</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">- Llamar al responsable de planta</SPAN></DIV></BODY></HTML></div>
+htmlText_9B74A938_B274_F6E6_41DF_498F426E3BFF.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">⚠️Válvula de corte de servicio. Abre o cierra el suministro de gas hacia la instalación. Seguridad: ciérrala ante cualquier emergencia o fuga antes de actuar. </SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">La válvula de purga inferior solo se usa para drenaje controlado por personal autorizado.</SPAN></DIV></BODY></HTML></div>
+htmlText_9B22F4FF_B275_1F5A_41B1_34AC3F6F2DE0.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">⚠️ Regulador de presión y manómetro. </SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Reduce la presión del GLP del tanque a la presión de servicio y permite verificarla en el manómetro. </SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Revisa: que la aguja esté en el rango normal y que no haya fugas en las uniones</SPAN></DIV></BODY></HTML></div>
 
 ### Título
-window_BF4AC37F_A26A_29A7_41BD_ECAFB2C6ED91.title = Barandas de seguridad
-window_A54B8488_8EE0_094C_41C7_6618FCDB8868.title = Equipo EPP
-window_BC579EEA_A2AA_F8A9_41A7_50B1CF1C8821.title = Manometro y regulacion de presion
-window_82C4FCA2_A2A9_FF59_41B8_AAD9D9C8BA1E.title = Tanque GLP
-window_8056CDFA_A2AE_58A9_41D9_3B69938B3DAD.title = Valula de corte de 
-window_BE3F28E3_A279_F8DF_41D7_65991A7D0D51.title = Valvulas 
+window_9B1106DD_B26D_3B5E_41D0_318E01F8D33C.title = Barandas de seguridad
+window_9BD8A1C0_B275_19A6_41C6_25C90E93745A.title = Equipo EPP
+window_9B221500_B275_1EA6_41E2_C5A04B99F4A2.title = Manometro y regulacion de presion
+window_9B4CAF7F_B27F_095A_41CE_D5B0B6CD0B12.title = Tanque GLP
+window_9B750939_B274_F6E6_41E4_5A966D050FE9.title = Valula de corte de 
+window_9BE10F06_B273_0AAA_41E1_F67CB092EE8E.title = Valvulas 

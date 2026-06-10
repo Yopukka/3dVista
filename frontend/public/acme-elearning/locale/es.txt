@@ -153,6 +153,9 @@ Button_A412A170_8D20_0BDC_41E1_B8A83CAFCD27.label = Completar Demo - Quiz Final
 ### Etiqueta
 Label_A469EE75_8D20_19C4_41D4_4F2D9C60E143.text = Modulo completado  ✅
 
+### Texto Multilínea
+HTMLText_A831F33A_B21F_1ADA_4191_568C0CC0DEE3.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:31px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:31px;"><B>Puntaje actual / Puntaje total</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:31px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:31px;"><B>{{quiz.score}}/{{quiz.score.total}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:31px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
 ## Tour
 
 ### Descripción

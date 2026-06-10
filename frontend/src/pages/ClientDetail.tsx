@@ -66,8 +66,10 @@ export default function ClientDetail() {
             </div>
           </div>
 
-          {/* Section 1: Tour Viewer */}
-          <section className="mb-8">
+          {/* Section 1: Tour Viewer — breaks out of the page container to be
+              wider (centered, capped at 1600px) without going fullscreen. */}
+          <section className="relative left-1/2 right-1/2 mb-8 -mx-[50vw] w-screen px-6">
+           <div className="mx-auto max-w-[1600px]">
             <div className="mb-3 flex items-center justify-between">
               <h2 className="text-lg font-semibold text-slate-700">
                 Tour Viewer
@@ -108,6 +110,7 @@ export default function ClientDetail() {
                 No tour URL set for this client.
               </p>
             )}
+           </div>
           </section>
 
           {/* Section 2: Stats Panel */}

@@ -152,10 +152,21 @@ Button_A412A170_8D20_0BDC_41E1_B8A83CAFCD27.label = Completar Demo - Quiz Final
 
 ### Etiqueta
 Label_A469EE75_8D20_19C4_41D4_4F2D9C60E143.text = Modulo completado  ✅
+Label_E8F05547_F001_ECFD_41D8_CD1FEC6154A7.text = Preguntas
+Label_E9939578_F002_EC93_41E3_2D182654320C.text = Puntaje actual 
+
+### Imágen
+Image_E426091C_F003_E493_41E5_212C8DC9A35A.url = skin/Image_E426091C_F003_E493_41E5_212C8DC9A35A_es.png
+Image_E801F3B7_F002_AB9D_41C9_DA5D09BAE086.url = skin/Image_E801F3B7_F002_AB9D_41C9_DA5D09BAE086_es.png
+Image_EB38401D_F002_E48D_41E5_FC978DE3CDD9.url = skin/Image_EB38401D_F002_E48D_41E5_FC978DE3CDD9_es.png
+Image_EF25712C_F003_A4B3_41DC_2ADEB5CBB0AC.url = skin/Image_EF25712C_F003_A4B3_41DC_2ADEB5CBB0AC_es.png
 
 ### Texto Multilínea
-HTMLText_95771187_B213_19AA_41DB_1BC7C4DC63A2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:31px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:31px;"><B>Preguntas</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:31px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:31px;"><B>{{quiz.questions.answered}} / {{quiz.question.count}}</B></SPAN></SPAN></DIV></div>
-HTMLText_A831F33A_B21F_1ADA_4191_568C0CC0DEE3.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:31px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:31px;"><B>Puntaje actual / Puntaje total</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:31px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:31px;"><B>{{quiz.score}}/{{quiz.score.total}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:31px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_95771187_B213_19AA_41DB_1BC7C4DC63A2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:31px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:31px;"><B>{{quiz.questions.answered}} / {{quiz.question.count}}</B></SPAN></SPAN></DIV></div>
+HTMLText_A831F33A_B21F_1ADA_4191_568C0CC0DEE3.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:31px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:31px;"><B>{{quiz.score}}/{{quiz.score.total}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:31px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Tooltip
+Label_E8F05547_F001_ECFD_41D8_CD1FEC6154A7.toolTip = Introduce Texto
 
 ## Tour
 
